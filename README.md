@@ -1,17 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Ejc5gqh5)
 # CSCI4100 Group Project
 
-Group members (3-5) (no Student IDs, only names and github usernames):
-
-1. Samiur Rahman - SAMIUR274
-
-3. Brock Davidge - BrockD101
-
-4. Luca Lotito - LucaLot
-
-5. Jaelen Wright - JaeWright
-
-6. Darshilkumar Patel - DarshilkumarPatel
+ Darshilkumar Patel - DarshilkumarPatel
 
 ## Overview
 This group project is designed for you to demonstrate the skills that you have learned in this course.  The final project that you submit in the last week of classes will be a completed mobile application.  Non-functional requirements, especially those associated with production-readiness, will be considered extremely important when marking this project.  You are expected to work in a group of three to five students when completing this project.  Students are not permitted to work alone on the project, as this eliminates one of the learning objectives of this assessment. Peer feedback forms will be required for all three phases of the project to ensure group equity of work.
